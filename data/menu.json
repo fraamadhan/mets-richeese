@@ -1,0 +1,151 @@
+{
+    "menu": [
+        {
+            "menuType": "Rich Burger",
+            "menuName": "Combo Fire Burger Chicken",
+            "description": "A spicy chicken burger with pink lava",
+            "price": 30000,
+            "image": "combo-fb-chicken.jpg"
+        },
+        {
+            "menuType": "Rich Burger",
+            "menuName": "Combo Fire Burger Beef",
+            "description": "A spicy beef burger with pink lava",
+            "price": 32000,
+            "image": "combo-fb-beef.jpg"
+        },
+        {
+            "menuType": "Rich Burger",
+            "menuName": "Combo burchic 2 rich burger chicken",
+            "description": "Two regular rich chicken burger with two spicy fried chickens",
+            "price": 50000,
+            "image": "combo-burchic-2-rb-chicken.jpg"
+        },
+        {
+            "menuType": "Rich Burger",
+            "menuName": "Fire burger beef (ala carte)",
+            "description": "A spicy rich burger with cheese and lettuce",
+            "price": 20000,
+            "image": "alacarte-fb-beef.jpg"
+        },
+        {
+            "menuType":"Special Combo",
+            "menuName": "Combo 1 flying chicken",
+            "description": "A fried chicken with cheese, pink lava, and rice",
+            "price": 45000, 
+            "image": "combo-1-flying-chicken-personal.jpg"
+        },
+        {
+            "menuType": "Special Combo",
+            "menuName": "Combo 2 flying chicken",
+            "description": "Two fried chickens with cheese, pink lava, and rice",
+            "price": 55000,
+            "image": "combo-2-flying-chicken-personal.jpg"
+        },
+        {
+            "menuType": "Special Combo",
+            "menuName": "Combo 1 Richicken",
+            "description": "A fried chicken with cheese, pink lava, and rice",
+            "price": 45000,
+            "image": "combo-1-richicken.jpg"
+        },
+        {
+            "menuType": "Special Combo",
+            "menuName": "Combo 2 Richicken",
+            "description": "Two fried chickens with cheese, pink lava, and rice",
+            "price": 55000,
+            "image": "combo-2-richicken.jpg"
+        },
+        {
+            "menuType": "Favourite Combo",
+            "menuName": "Combo cheese crackling",
+            "description": "A spicy fried chicken with cracker and cheese with drink pink lava",
+            "price": 50000,
+            "image": "combo-special-combo-cheese-crackling-putih.jpg"
+        },
+        {
+            "menuType": "Favourite Combo",
+            "menuName": "Combo 4pcs fire wings",
+            "description": "Four spicy fire wings with cheese, rice, and pink lava",
+            "price": 60000,
+            "image": "combo-special-combo-4-pc-fire-wings-putih.jpg"
+        },
+        {
+            "menuType": "Favourite Combo",
+            "menuName": "Combo duo fire chicken",
+            "description": "Two spicy fried chickens any cut with cheese, pink lava, and rice",
+            "price": 60000,
+            "image": "combo-special-combo-duo-firechicken-putih.jpg"
+        },
+        {
+            "menuType": "Favourite Combo",
+            "menuName": "Combo fire drum stick",
+            "description": "Two drum stick spicy fried chicken with cheese, rice, and pink lava",
+            "price": 55000,
+            "image": "combo-special-combo-2-pc-drumstick-putih.jpg"
+        },
+        {
+            "menuType": "Snack and Dessert",
+            "menuName": "Richeese ice cream cup",
+            "description": "A refreshing vanilla ice cream cup",
+            "price": 15000,
+            "image": "ice-cream-21.jpg"
+        },
+        {
+            "menuType": "Snack and Dessert",
+            "menuName": "Fire french fries",
+            "description": "A spicy french fries",
+            "price": 20000,
+            "image": "fire-french-fries-1--96369d5fb3f8ab.jpg"
+        },
+        {
+            "menuType": "Snack and Dessert",
+            "menuName": "Cheesy cream soup",
+            "description": "A cheese and delicious cream soup",
+            "price": 16000,
+            "image": "cheesy-cream-soup.jpg"
+        },
+        {
+            "menuType": "Snack and Dessert",
+            "menuName": "Perkedel",
+            "description": "A delicious perkedel with cheese",
+            "price": 10000,
+            "image": "perkedel.jpg"
+        },
+        {
+            "menuType": "Snack and Dessert",
+            "menuName": "Richoho ice cream cup",
+            "description": "A choco ice cream cup",
+            "price": 16000,
+            "image": "ice-cream-cup.jpg"
+        },
+        {
+            "menuType": "Snack and Dessert",
+            "menuName": "Fire Wedges",
+            "description": "A spicy wedges",
+            "price": 16000,
+            "image": "fire-wedges.jpg"
+        },
+        {
+            "menuType": "Beverages",
+            "menuName": "Frutarian - Pink Lava 1 Liter",
+            "description": "One liter of frutarian - pink lava with bottle",
+            "price": 30000,
+            "image": "drink-1l.jpg"
+        },
+        {
+            "menuType": "Beverages",
+            "menuName": "Pink lava",
+            "description": "Refreshing pink lava",
+            "price": 23000,
+            "image": "pink-lava.jpg"
+        },
+        {
+            "menuType": "Beverages",
+            "menuName": "Amo water",
+            "description": "Refreshing amo water",
+            "price": 15000,
+            "image": "amo-water.jpg"
+        }
+    ]
+}
